@@ -1,0 +1,5 @@
+package shoppingcart
+
+class Item {
+
+}
