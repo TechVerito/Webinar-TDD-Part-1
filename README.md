@@ -1,2 +1,2 @@
 # Webinar-TDD-Part-1
-Understanding basic example of TDD in Kotlin
+Understanding a basic example of TDD in Kotlin
